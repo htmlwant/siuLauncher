@@ -13,7 +13,7 @@
       "description": "시우서버 Running Minecraft 1.21.1",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "211.104.219.98:25565",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
