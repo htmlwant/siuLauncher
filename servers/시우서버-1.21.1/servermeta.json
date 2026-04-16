@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///C:/Users/c/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/Launcher/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "시우서버 (Minecraft 1.21.1)",
+    "description": "시우서버 Running Minecraft 1.21.1",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
